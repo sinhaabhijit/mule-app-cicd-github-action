@@ -9,6 +9,6 @@
 				<fixed-frequency />
 			</scheduling-strategy>
 		</scheduler>
-		<logger level="INFO" doc:name="Logger" doc:id="53809e01-411b-4658-bab6-8985a9712919" message="POC on githubaction"/>
+		<logger level="INFO" doc:name="Logger" doc:id="53809e01-411b-4658-bab6-8985a9712919" message="POC on githubaction for Test"/>
 	</flow>
 </mule>
